@@ -1,5 +1,5 @@
 :root {
-  --cinza: #362222;
+  --cinza: #342121;
   --vermelha: #B3541E;
   --vermelha-escura: #FFCCD2;
   --branca: #ffffff;
@@ -20,6 +20,12 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+}
+
+#titulo{
+  color:#570c0c
+  margin 50px;
+  
 }
 
 .teclado {
